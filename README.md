@@ -71,11 +71,11 @@ cd usable
 
 Usable works on its own, but it's also part of Quarizmi's end-to-end paid-search system:
 
-- **[EKEP](../ekep)** — discovers long-tail keywords
-- **[Bidbot](../bidbot)** — decides bids and which keywords to turn on or off
+- **[EKEP](https://github.com/Quarizmi/ekep)** — discovers long-tail keywords
+- **[Bidbot](https://github.com/Quarizmi/bidbot)** — decides bids and which keywords to turn on or off
 - **Usable** — builds full campaigns with the user in the loop _(you are here)_
-- **[Magneto](../magneto)** — writes high-relevance ads for every keyword
-- **[Health Checker](../health-checker)** — grades an existing Google Ads account (standalone)
+- **[Magneto](https://github.com/Quarizmi/magneto)** — writes high-relevance ads for every keyword
+- **[Health Checker](https://github.com/Quarizmi/healthchecker)** — grades an existing Google Ads account (standalone)
 
 ## Use it yourself, or work with us
 
